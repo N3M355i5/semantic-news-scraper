@@ -1,0 +1,753 @@
+{
+    "Financial Services": {
+        "Governance": [
+            "IBM OpenPages",
+            "IBM RegTech Suite"
+        ],
+        "GRC": [
+            "IBM OpenPages"
+        ],
+        "Operational Risk": [
+            "IBM OpenPages"
+        ],
+        "Enterprise Risk": [
+            "IBM OpenPages"
+        ],
+        "Regulatory Compliance": [
+            "IBM OpenPages"
+        ],
+        "Third Party Risk": [
+            "IBM OpenPages"
+        ],
+        "Internal Audit": [
+            "IBM OpenPages"
+        ],
+        "Fraud Detection": [
+            "IBM Safer Payments"
+        ],
+        "Payment Security": [
+            "IBM Safer Payments"
+        ],
+        "Fraud Prevention": [
+            "IBM Safer Payments"
+        ],
+        "Transaction Monitoring": [
+            "IBM Safer Payments"
+        ],
+        "Financial Crime": [
+            "IBM Safer Payments"
+        ],
+        "AML": [
+            "IBM Safer Payments"
+        ],
+        "Payment Fraud": [
+            "IBM Safer Payments"
+        ],
+        "Real-Time Fraud Detection": [
+            "IBM Safer Payments"
+        ],
+        "Financial AI": [
+            "Watson Financial Services"
+        ],
+        "Banking AI": [
+            "Watson Financial Services"
+        ],
+        "AI Banking": [
+            "Watson Financial Services"
+        ],
+        "Financial Analytics": [
+            "Watson Financial Services"
+        ],
+        "Risk Analytics": [
+            "Watson Financial Services"
+        ],
+        "Digital Banking": [
+            "Watson Financial Services",
+            "IBM Banking Platform"
+        ],
+        "Financial Automation": [
+            "Watson Financial Services"
+        ],
+        "RegTech": [
+            "IBM RegTech Suite"
+        ],
+        "Regulatory Technology": [
+            "IBM RegTech Suite"
+        ],
+        "Compliance Automation": [
+            "IBM RegTech Suite"
+        ],
+        "Financial Compliance": [
+            "IBM RegTech Suite"
+        ],
+        "Risk & Compliance": [
+            "IBM RegTech Suite"
+        ],
+        "Core Banking": [
+            "IBM Banking Platform"
+        ],
+        "Bank Modernization": [
+            "IBM Banking Platform"
+        ],
+        "Bank Transformation": [
+            "IBM Banking Platform"
+        ],
+        "Banking Platform": [
+            "IBM Banking Platform"
+        ],
+        "Financial Platform": [
+            "IBM Banking Platform"
+        ],
+        "Enterprise Risk Management": [
+            "IBM OpenPages"
+        ],
+        "Governance Risk Compliance": [
+            "IBM OpenPages"
+        ],
+        "Enterprise AI": [
+            "Watson Financial Services"
+        ],
+        "AI Transformation": [
+            "Watson Financial Services"
+        ],
+        "AI Adoption": [
+            "Watson Financial Services"
+        ],
+        "AI Strategy": [
+            "Watson Financial Services"
+        ],
+        "Risk AI": [
+            "Watson Financial Services"
+        ],
+        "Compliance AI": [
+            "IBM RegTech Suite"
+        ],
+        "Fraud AI": [
+            "IBM Safer Payments"
+        ]
+    },
+    "Healthcare & Life Sciences": {
+        "Healthcare AI": [
+            "IBM Watson Health"
+        ],
+        "Clinical AI": [
+            "IBM Watson Health"
+        ],
+        "Medical AI": [
+            "IBM Watson Health"
+        ],
+        "Healthcare Analytics": [
+            "IBM Watson Health"
+        ],
+        "Clinical Decision Support": [
+            "IBM Watson Health"
+        ],
+        "Hospital Analytics": [
+            "IBM Watson Health"
+        ],
+        "Drug Information": [
+            "IBM Micromedex"
+        ],
+        "Medication Management": [
+            "IBM Micromedex"
+        ],
+        "Clinical Support": [
+            "IBM Micromedex"
+        ],
+        "Drug Database": [
+            "IBM Micromedex"
+        ],
+        "Medication Safety": [
+            "IBM Micromedex"
+        ],
+        "Health Analytics": [
+            "Truven Health Analytics"
+        ],
+        "Population Health": [
+            "Truven Health Analytics"
+        ],
+        "Healthcare Data": [
+            "Truven Health Analytics",
+            "IBM Health Data Platform"
+        ],
+        "Clinical Analytics": [
+            "Truven Health Analytics"
+        ],
+        "Healthcare Intelligence": [
+            "Truven Health Analytics"
+        ],
+        "Patient AI": [
+            "watsonx Patient AI Agent"
+        ],
+        "Patient Engagement": [
+            "watsonx Patient AI Agent"
+        ],
+        "Clinical Automation": [
+            "watsonx Patient AI Agent"
+        ],
+        "Clinical Data": [
+            "IBM Health Data Platform"
+        ],
+        "Electronic Health Records": [
+            "IBM Health Data Platform"
+        ],
+        "EHR": [
+            "IBM Health Data Platform"
+        ],
+        "Healthcare Platform": [
+            "IBM Health Data Platform"
+        ],
+        "Healthcare AI Assistant": [
+            "watsonx Patient AI Agent"
+        ],
+        "Clinical Assistant": [
+            "watsonx Patient AI Agent"
+        ],
+        "Healthcare Automation": [
+            "watsonx Patient AI Agent"
+        ]
+    },
+    "Manufacturing & Industry 4.0": {
+        "Asset Management": [
+            "IBM Maximo"
+        ],
+        "Enterprise Asset Management": [
+            "IBM Maximo"
+        ],
+        "EAM": [
+            "IBM Maximo"
+        ],
+        "Predictive Maintenance": [
+            "IBM Maximo",
+            "IBM MAS Predict"
+        ],
+        "Asset Performance Management": [
+            "IBM Maximo"
+        ],
+        "Maintenance Management": [
+            "IBM Maximo"
+        ],
+        "Industrial Maintenance": [
+            "IBM Maximo"
+        ],
+        "Reliability Engineering": [
+            "IBM Maximo"
+        ],
+        "Work Order Management": [
+            "IBM Maximo"
+        ],
+        "Maintenance Operations": [
+            "IBM Maximo"
+        ],
+        "Condition Monitoring": [
+            "IBM Maximo",
+            "IBM MAS Monitor"
+        ],
+        "Equipment Management": [
+            "IBM Maximo"
+        ],
+        "Maintenance Scheduling": [
+            "IBM Maximo"
+        ],
+        "Asset Monitoring": [
+            "IBM MAS Monitor"
+        ],
+        "Predictive Analytics": [
+            "IBM MAS Monitor",
+            "IBM MAS Predict"
+        ],
+        "Industrial Monitoring": [
+            "IBM MAS Monitor"
+        ],
+        "Equipment Monitoring": [
+            "IBM MAS Monitor"
+        ],
+        "Remote Monitoring": [
+            "IBM MAS Monitor",
+            "Watson IoT Platform"
+        ],
+        "Failure Prediction": [
+            "IBM MAS Predict"
+        ],
+        "Equipment Failure": [
+            "IBM MAS Predict"
+        ],
+        "Systems Engineering": [
+            "IBM Engineering Suite"
+        ],
+        "Engineering Lifecycle": [
+            "IBM Engineering Suite"
+        ],
+        "Product Development": [
+            "IBM Engineering Suite"
+        ],
+        "Requirements Management": [
+            "IBM Engineering Suite"
+        ],
+        "Engineering Management": [
+            "IBM Engineering Suite"
+        ],
+        "Model Based Systems Engineering": [
+            "IBM Engineering Suite"
+        ],
+        "Supply Chain": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Supply Chain Analytics": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Demand Forecasting": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Inventory Optimization": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Supply Chain Visibility": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Supply Chain AI": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Industrial IoT": [
+            "Watson IoT Platform"
+        ],
+        "IoT Platform": [
+            "Watson IoT Platform"
+        ],
+        "Connected Assets": [
+            "Watson IoT Platform"
+        ],
+        "Connected Devices": [
+            "Watson IoT Platform"
+        ],
+        "Smart Factory": [
+            "Watson IoT Platform"
+        ],
+        "Industry 4.0": [
+            "Watson IoT Platform"
+        ],
+        "Edge Computing": [
+            "Watson IoT Platform"
+        ],
+        "Predictive Machine Learning": [
+            "IBM MAS Predict"
+        ],
+        "Asset Reliability": [
+            "IBM MAS Predict"
+        ],
+        "Supply Chain Logistics": [
+            "IBM Supply Chain Intelligence"
+        ],
+        "Predictive AI": [
+            "Watson IoT Platform"
+        ],
+        "Industrial AI": [
+            "Watson IoT Platform"
+        ],
+        "Manufacturing AI": [
+            "Watson IoT Platform"
+        ],
+        "Factory AI": [
+            "Watson IoT Platform"
+        ],
+        "Industrial Analytics": [
+            "Watson IoT Platform"
+        ]
+    },
+    "Retail & Consumer Goods": {
+        "Supply Chain": [
+            "IBM Sterling Supply Chain"
+        ],
+        "Inventory Management": [
+            "IBM Sterling Supply Chain"
+        ],
+        "Order Fulfillment": [
+            "IBM Sterling Supply Chain",
+            "IBM Order Management"
+        ],
+        "Warehouse Management": [
+            "IBM Sterling Supply Chain"
+        ],
+        "Supply Chain Visibility": [
+            "IBM Sterling Supply Chain"
+        ],
+        "Order Management": [
+            "IBM Order Management"
+        ],
+        "Retail Operations": [
+            "IBM Order Management",
+            "IBM Store Engagement"
+        ],
+        "Omnichannel": [
+            "IBM Order Management"
+        ],
+        "Store Management": [
+            "IBM Store Engagement"
+        ],
+        "Point of Sale": [
+            "IBM Store Engagement"
+        ],
+        "Retail Analytics": [
+            "IBM Store Engagement"
+        ],
+        "Advertising AI": [
+            "Watson Advertising"
+        ],
+        "Marketing AI": [
+            "Watson Advertising"
+        ],
+        "Customer Personalization": [
+            "Watson Advertising"
+        ],
+        "Digital Advertising": [
+            "Watson Advertising"
+        ],
+        "Marketing Analytics": [
+            "Watson Advertising"
+        ],
+        "Business Planning": [
+            "IBM Planning Analytics"
+        ],
+        "Financial Planning": [
+            "IBM Planning Analytics"
+        ],
+        "Budgeting": [
+            "IBM Planning Analytics"
+        ],
+        "Forecasting": [
+            "IBM Planning Analytics"
+        ],
+        "Performance Management": [
+            "IBM Planning Analytics"
+        ],
+        "Digital Commerce": [
+            "IBM Order Management"
+        ],
+        "Retail Customer Experience": [
+            "IBM Store Engagement"
+        ],
+        "Retail AI": [
+            "Watson Advertising"
+        ],
+        "Personalization AI": [
+            "Watson Advertising"
+        ],
+        "Demand Forecasting AI": [
+            "Watson Advertising"
+        ],
+        "Commerce AI": [
+            "Watson Advertising"
+        ]
+    },
+    "Telecommunications": {
+        "Network Automation": [
+            "IBM Telco Network Cloud Manager"
+        ],
+        "Telecom Cloud": [
+            "IBM Telco Network Cloud Manager"
+        ],
+        "Cloud Native": [
+            "IBM Telco Network Cloud Manager"
+        ],
+        "5G": [
+            "IBM Telco Network Cloud Manager"
+        ],
+        "Network Management": [
+            "IBM Telco Network Cloud Manager"
+        ],
+        "AIOps": [
+            "IBM Concert",
+            "Watson AIOps"
+        ],
+        "Observability": [
+            "IBM Concert",
+            "Watson AIOps"
+        ],
+        "Application Monitoring": [
+            "IBM Concert"
+        ],
+        "Incident Management": [
+            "IBM Concert"
+        ],
+        "Application Performance": [
+            "IBM Turbonomic"
+        ],
+        "Cloud Optimization": [
+            "IBM Turbonomic"
+        ],
+        "Infrastructure Optimization": [
+            "IBM Turbonomic"
+        ],
+        "Resource Optimization": [
+            "IBM Turbonomic"
+        ],
+        "Incident Response": [
+            "Watson AIOps"
+        ],
+        "Root Cause Analysis": [
+            "Watson AIOps"
+        ],
+        "IT Automation": [
+            "Watson AIOps"
+        ],
+        "Network Performance Management": [
+            "IBM Turbonomic"
+        ],
+        "IT Operations Management": [
+            "IBM Concert"
+        ],
+        "Network AI": [
+            "Watson AIOps"
+        ],
+        "Telecom AI": [
+            "Watson AIOps"
+        ],
+        "Network Automation AI": [
+            "IBM Telco Network Cloud Manager"
+        ]
+    },
+    "Cross-Industry": {
+        "Kubernetes": [
+            "Red Hat OpenShift"
+        ],
+        "Cloud Platform": [
+            "Red Hat OpenShift"
+        ],
+        "Hybrid Cloud": [
+            "Red Hat OpenShift",
+            "IBM Cloud Pak Suite"
+        ],
+        "Container Platform": [
+            "Red Hat OpenShift",
+            "IBM Cloud Pak Suite"
+        ],
+        "SIEM": [
+            "IBM Security QRadar"
+        ],
+        "Cybersecurity": [
+            "IBM Security QRadar"
+        ],
+        "Threat Detection": [
+            "IBM Security QRadar"
+        ],
+        "Security Analytics": [
+            "IBM Security QRadar"
+        ],
+        "SOC": [
+            "IBM Security QRadar"
+        ],
+        "Security Operations": [
+            "IBM Security QRadar"
+        ],
+        "Generative AI": [
+            "IBM watsonx.ai",
+            "IBM Granite Models"
+        ],
+        "Foundation Models": [
+            "IBM watsonx.ai",
+            "IBM Granite Models"
+        ],
+        "Large Language Models": [
+            "IBM watsonx.ai",
+            "IBM Granite Models"
+        ],
+        "LLM": [
+            "IBM watsonx.ai",
+            "IBM Granite Models"
+        ],
+        "Enterprise AI": [
+            "IBM watsonx.ai",
+            "IBM Granite Models"
+        ],
+        "AI Platform": [
+            "IBM watsonx.ai"
+        ],
+        "AI Governance": [
+            "IBM watsonx.governance"
+        ],
+        "Responsible AI": [
+            "IBM watsonx.governance"
+        ],
+        "Model Governance": [
+            "IBM watsonx.governance"
+        ],
+        "AI Compliance": [
+            "IBM watsonx.governance"
+        ],
+        "AI Risk": [
+            "IBM watsonx.governance"
+        ],
+        "Workflow Automation": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Digital Assistant": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Process Automation": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Cloud Native": [
+            "IBM Cloud Pak Suite"
+        ],
+        "Application Modernization": [
+            "IBM Cloud Pak Suite"
+        ],
+        "OpenShift": [
+            "IBM Cloud Pak Suite"
+        ],
+        "Enterprise DevOps": [
+            "Red Hat OpenShift"
+        ],
+        "Enterprise AI Assistant": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Enterprise Business Automation": [
+            "IBM watsonx Orchestrate"
+        ],
+        "AI Transformation": [
+            "IBM watsonx.ai"
+        ],
+        "AI Adoption": [
+            "IBM watsonx.ai"
+        ],
+        "AI Strategy": [
+            "IBM watsonx.ai"
+        ],
+        "AI Automation": [
+            "IBM watsonx Orchestrate"
+        ],
+        "AI Agent": [
+            "IBM watsonx Orchestrate"
+        ],
+        "AI Agents": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Enterprise AI Agent": [
+            "IBM watsonx Orchestrate"
+        ],
+        "AI Copilot": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Intelligent Automation": [
+            "IBM watsonx Orchestrate"
+        ],
+        "Agentic AI": [
+            "IBM watsonx.ai"
+        ],
+        "AI Modernization": [
+            "IBM Cloud Pak Suite"
+        ],
+        "AI Infrastructure": [
+            "IBM Cloud Pak Suite"
+        ],
+        "Enterprise LLM": [
+            "IBM Granite Models"
+        ],
+        "AI Orchestration": [
+            "IBM watsonx Orchestrate"
+        ]
+    },
+    "Government & Public Sector": {
+        "Government Cloud": [
+            "IBM Cloud for Government"
+        ],
+        "Public Sector Cloud": [
+            "IBM Cloud for Government"
+        ],
+        "Government Infrastructure": [
+            "IBM Cloud for Government"
+        ],
+        "Mainframe": [
+            "IBM Z"
+        ],
+        "Enterprise Computing": [
+            "IBM Z"
+        ],
+        "Mission Critical": [
+            "IBM Z"
+        ],
+        "High Availability": [
+            "IBM Z"
+        ],
+        "Transaction Processing": [
+            "IBM Z"
+        ],
+        "Government Secure Cloud": [
+            "IBM Cloud for Government"
+        ],
+        "Government AI": [
+            "IBM Cloud for Government"
+        ],
+        "Citizen AI": [
+            "IBM Cloud for Government"
+        ],
+        "Public Sector AI": [
+            "IBM Cloud for Government"
+        ]
+    },
+    "Energy & Utilities": {
+        "Utility Asset Management": [
+            "IBM Maximo for Utilities"
+        ],
+        "Grid Maintenance": [
+            "IBM Maximo for Utilities"
+        ],
+        "Asset Lifecycle Management": [
+            "IBM Maximo for Utilities"
+        ],
+        "Predictive Maintenance": [
+            "IBM Maximo for Utilities"
+        ],
+        "Energy Asset Management": [
+            "IBM Maximo for Utilities"
+        ],
+        "ESG": [
+            "IBM Environmental Intelligence Suite"
+        ],
+        "Climate Risk": [
+            "IBM Environmental Intelligence Suite"
+        ],
+        "Weather Intelligence": [
+            "IBM Environmental Intelligence Suite"
+        ],
+        "Environmental Analytics": [
+            "IBM Environmental Intelligence Suite"
+        ],
+        "Energy Supply Chain": [
+            "IBM Supply Chain Energy"
+        ],
+        "Energy Logistics": [
+            "IBM Supply Chain Energy"
+        ],
+        "Utility Supply Chain": [
+            "IBM Supply Chain Energy"
+        ],
+        "Industrial IoT": [
+            "Watson IoT for Energy"
+        ],
+        "Energy IoT": [
+            "Watson IoT for Energy"
+        ],
+        "Smart Grid": [
+            "Watson IoT for Energy"
+        ],
+        "Remote Monitoring": [
+            "Watson IoT for Energy"
+        ],
+        "Energy Analytics": [
+            "Watson IoT for Energy"
+        ],
+        "Utility Operations": [
+            "IBM Supply Chain Energy"
+        ],
+        "Energy AI": [
+            "Watson IoT for Energy"
+        ],
+        "Grid AI": [
+            "Watson IoT for Energy"
+        ],
+        "Utility AI": [
+            "Watson IoT for Energy"
+        ]
+    }
+}

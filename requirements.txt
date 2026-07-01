@@ -1,0 +1,11 @@
+feedparser
+requests
+beautifulsoup4
+trafilatura
+newspaper4k
+lxml
+psycopg2-binary
+python-dotenv
+tqdm
+colorama
+loguru

@@ -1,0 +1,96 @@
+{
+  "Financial Services": {
+    "Financial AI": ["Watson Financial Services", "IBM Banking Platform"],
+    "Banking AI": ["Watson Financial Services", "IBM Banking Platform"],
+    "Fraud AI": ["IBM Safer Payments", "Watson Financial Services"],
+    "Compliance AI": ["IBM RegTech Suite", "IBM OpenPages"],
+    "Generative AI": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Artificial Intelligence": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Enterprise AI": [
+      "IBM watsonx.ai",
+      "Watson Financial Services",
+      "IBM Banking Platform"
+    ],
+    "AI Transformation": ["IBM watsonx.ai", "IBM Banking Platform"],
+    "AI Adoption": ["IBM watsonx.ai", "Watson Financial Services"],
+    "AI Strategy": ["IBM watsonx.ai", "Watson Financial Services"]
+  },
+
+  "Healthcare & Life Sciences": {
+    "Healthcare AI": [
+      "IBM Watson Health",
+      "Truven Health Analytics",
+      "IBM Health Data Platform"
+    ],
+    "Clinical AI": [
+      "IBM Watson Health",
+      "IBM Micromedex",
+      "Truven Health Analytics"
+    ],
+    "Medical AI": ["IBM Watson Health", "IBM Micromedex"],
+    "Generative AI": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Artificial Intelligence": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Enterprise AI": [
+      "IBM watsonx.ai",
+      "IBM Watson Health",
+      "IBM Health Data Platform"
+    ],
+    "AI Transformation": ["IBM watsonx.ai", "IBM Health Data Platform"],
+    "AI Adoption": ["IBM watsonx.ai", "IBM Watson Health"],
+    "AI Strategy": ["IBM watsonx.ai", "IBM Watson Health"],
+    "Healthcare Automation": [
+      "watsonx Patient AI Agent",
+      "IBM Health Data Platform"
+    ]
+  },
+
+  "Manufacturing & Industry 4.0": {
+    "Manufacturing AI": [
+      "Watson IoT Platform",
+      "IBM MAS Monitor",
+      "IBM MAS Predict"
+    ],
+    "Industrial AI": [
+      "Watson IoT Platform",
+      "IBM MAS Monitor",
+      "IBM MAS Predict"
+    ],
+    "Factory AI": ["Watson IoT Platform", "IBM Engineering Suite"],
+    "Predictive AI": ["IBM MAS Predict", "IBM Maximo", "Watson IoT Platform"],
+    "Predictive Maintenance": [
+      "IBM Maximo",
+      "IBM MAS Predict",
+      "Watson IoT Platform"
+    ],
+    "Generative AI": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Artificial Intelligence": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Enterprise AI": [
+      "IBM watsonx.ai",
+      "Watson IoT Platform",
+      "IBM Engineering Suite"
+    ],
+    "AI Transformation": ["IBM watsonx.ai", "Watson IoT Platform"],
+    "AI Adoption": ["IBM watsonx.ai", "Watson IoT Platform"]
+  },
+
+  "Transportation": {
+    "Transportation AI": [
+      "IBM Maximo",
+      "Watson IoT Platform",
+      "IBM Supply Chain Intelligence"
+    ],
+    "Fleet AI": ["IBM Maximo", "IBM Supply Chain Intelligence"],
+    "Logistics AI": ["IBM Supply Chain Intelligence", "Watson IoT Platform"],
+    "Predictive Maintenance": [
+      "IBM Maximo",
+      "IBM MAS Predict",
+      "Watson IoT Platform"
+    ],
+    "Supply Chain AI": ["IBM Supply Chain Intelligence", "Watson IoT Platform"],
+    "Generative AI": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Artificial Intelligence": ["IBM watsonx.ai", "IBM Granite Models"],
+    "Enterprise AI": ["IBM watsonx.ai", "IBM Supply Chain Intelligence"],
+    "AI Transformation": ["IBM watsonx.ai", "IBM Supply Chain Intelligence"],
+    "AI Adoption": ["IBM watsonx.ai", "IBM Supply Chain Intelligence"]
+  }
+}

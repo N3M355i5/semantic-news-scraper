@@ -1,0 +1,456 @@
+{
+  "company_name": "IBM",
+  "products": [
+    {
+      "product_name": "IBM OpenPages",
+      "semantics": [
+        "Governance",
+        "Risk Management",
+        "Compliance",
+        "GRC",
+        "Operational Risk",
+        "Enterprise Risk",
+        "Regulatory Compliance",
+        "Third Party Risk",
+        "Internal Audit",
+        "Policy Management"
+      ],
+      "industry": "Financial Services"
+    },
+    {
+      "product_name": "IBM Safer Payments",
+      "semantics": [
+        "Fraud Detection",
+        "Payment Security",
+        "Fraud Prevention",
+        "Transaction Monitoring",
+        "Financial Crime",
+        "AML",
+        "Payment Fraud",
+        "Real-Time Fraud Detection"
+      ],
+      "industry": "Financial Services"
+    },
+    {
+      "product_name": "Watson Financial Services",
+      "semantics": [
+        "Financial AI",
+        "Banking AI",
+        "AI Banking",
+        "Financial Analytics",
+        "Risk Analytics",
+        "Digital Banking",
+        "Financial Automation"
+      ],
+      "industry": "Financial Services"
+    },
+    {
+      "product_name": "IBM RegTech Suite",
+      "semantics": [
+        "RegTech",
+        "Regulatory Technology",
+        "Compliance Automation",
+        "Financial Compliance",
+        "Risk & Compliance",
+        "Governance"
+      ],
+      "industry": "Financial Services"
+    },
+    {
+      "product_name": "IBM Banking Platform",
+      "semantics": [
+        "Core Banking",
+        "Digital Banking",
+        "Bank Modernization",
+        "Bank Transformation",
+        "Banking Platform",
+        "Financial Platform"
+      ],
+      "industry": "Financial Services"
+    },
+    {
+      "product_name": "IBM Watson Health",
+      "semantics": [
+        "Healthcare AI",
+        "Clinical AI",
+        "Medical AI",
+        "Healthcare Analytics",
+        "Clinical Decision Support",
+        "Hospital Analytics"
+      ],
+      "industry": "Healthcare & Life Sciences"
+    },
+    {
+      "product_name": "IBM Micromedex",
+      "semantics": [
+        "Drug Information",
+        "Medication Management",
+        "Clinical Support",
+        "Drug Database",
+        "Medication Safety"
+      ],
+      "industry": "Healthcare & Life Sciences"
+    },
+    {
+      "product_name": "Truven Health Analytics",
+      "semantics": [
+        "Health Analytics",
+        "Population Health",
+        "Healthcare Data",
+        "Clinical Analytics",
+        "Healthcare Intelligence"
+      ],
+      "industry": "Healthcare & Life Sciences"
+    },
+    {
+      "product_name": "watsonx Patient AI Agent",
+      "semantics": [
+        "Patient AI",
+        "Healthcare Assistant",
+        "AI Assistant",
+        "Patient Engagement",
+        "Clinical Automation"
+      ],
+      "industry": "Healthcare & Life Sciences"
+    },
+    {
+      "product_name": "IBM Health Data Platform",
+      "semantics": [
+        "Healthcare Data",
+        "Clinical Data",
+        "Health Records",
+        "Electronic Health Records",
+        "EHR",
+        "Healthcare Platform"
+      ],
+      "industry": "Healthcare & Life Sciences"
+    },
+    {
+      "product_name": "IBM Maximo",
+      "semantics": [
+        "Asset Management",
+        "Enterprise Asset Management",
+        "EAM",
+        "Predictive Maintenance",
+        "Asset Performance Management",
+        "Maintenance Management",
+        "Industrial Maintenance",
+        "Reliability Engineering",
+        "Work Order Management",
+        "Maintenance Operations",
+        "Condition Monitoring",
+        "Equipment Management",
+        "Maintenance Scheduling"
+      ],
+      "industry": "Manufacturing & Industry 4.0"
+    },
+    {
+      "product_name": "IBM MAS Monitor",
+      "semantics": [
+        "Asset Monitoring",
+        "Condition Monitoring",
+        "Predictive Analytics",
+        "Industrial Monitoring",
+        "Equipment Monitoring",
+        "Remote Monitoring"
+      ],
+      "industry": "Manufacturing & Industry 4.0"
+    },
+    {
+      "product_name": "IBM MAS Predict",
+      "semantics": [
+        "Predictive Maintenance",
+        "Failure Prediction",
+        "Machine Learning",
+        "Predictive Analytics",
+        "Equipment Failure",
+        "Reliability"
+      ],
+      "industry": "Manufacturing & Industry 4.0"
+    },
+    {
+      "product_name": "IBM Engineering Suite",
+      "semantics": [
+        "Systems Engineering",
+        "Engineering Lifecycle",
+        "Product Development",
+        "Requirements Management",
+        "Engineering Management",
+        "Model Based Systems Engineering"
+      ],
+      "industry": "Manufacturing & Industry 4.0"
+    },
+    {
+      "product_name": "IBM Supply Chain Intelligence",
+      "semantics": [
+        "Supply Chain",
+        "Supply Chain Analytics",
+        "Logistics",
+        "Demand Forecasting",
+        "Inventory Optimization",
+        "Supply Chain Visibility",
+        "Supply Chain AI"
+      ],
+      "industry": "Manufacturing & Industry 4.0"
+    },
+    {
+      "product_name": "Watson IoT Platform",
+      "semantics": [
+        "Industrial IoT",
+        "IoT Platform",
+        "Connected Assets",
+        "Connected Devices",
+        "Smart Factory",
+        "Industry 4.0",
+        "Edge Computing",
+        "Remote Monitoring"
+      ],
+      "industry": "Manufacturing & Industry 4.0"
+    },
+    {
+      "product_name": "IBM Sterling Supply Chain",
+      "semantics": [
+        "Supply Chain",
+        "Inventory Management",
+        "Order Fulfillment",
+        "Warehouse Management",
+        "Supply Chain Visibility"
+      ],
+      "industry": "Retail & Consumer Goods"
+    },
+    {
+      "product_name": "IBM Order Management",
+      "semantics": [
+        "Order Management",
+        "Order Fulfillment",
+        "Commerce",
+        "Retail Operations",
+        "Omnichannel"
+      ],
+      "industry": "Retail & Consumer Goods"
+    },
+    {
+      "product_name": "IBM Store Engagement",
+      "semantics": [
+        "Retail Operations",
+        "Store Management",
+        "Point of Sale",
+        "Retail Analytics",
+        "Customer Experience"
+      ],
+      "industry": "Retail & Consumer Goods"
+    },
+    {
+      "product_name": "Watson Advertising",
+      "semantics": [
+        "Advertising AI",
+        "Marketing AI",
+        "Customer Personalization",
+        "Digital Advertising",
+        "Marketing Analytics"
+      ],
+      "industry": "Retail & Consumer Goods"
+    },
+    {
+      "product_name": "IBM Planning Analytics",
+      "semantics": [
+        "Business Planning",
+        "Financial Planning",
+        "Budgeting",
+        "Forecasting",
+        "Performance Management"
+      ],
+      "industry": "Retail & Consumer Goods"
+    },
+    {
+      "product_name": "IBM Telco Network Cloud Manager",
+      "semantics": [
+        "Network Automation",
+        "Telecom Cloud",
+        "Cloud Native",
+        "5G",
+        "Network Management"
+      ],
+      "industry": "Telecommunications"
+    },
+    {
+      "product_name": "Red Hat OpenShift",
+      "semantics": [
+        "Containers",
+        "Kubernetes",
+        "Cloud Platform",
+        "DevOps",
+        "Hybrid Cloud",
+        "Container Platform"
+      ],
+      "industry": "Cross-Industry"
+    },
+    {
+      "product_name": "IBM Concert",
+      "semantics": [
+        "AIOps",
+        "IT Operations",
+        "Observability",
+        "Application Monitoring",
+        "Incident Management"
+      ],
+      "industry": "Telecommunications"
+    },
+    {
+      "product_name": "IBM Turbonomic",
+      "semantics": [
+        "Application Performance",
+        "Cloud Optimization",
+        "Infrastructure Optimization",
+        "Resource Optimization",
+        "Performance Management"
+      ],
+      "industry": "Telecommunications"
+    },
+    {
+      "product_name": "Watson AIOps",
+      "semantics": [
+        "AIOps",
+        "Incident Response",
+        "Root Cause Analysis",
+        "IT Automation",
+        "Observability"
+      ],
+      "industry": "Telecommunications"
+    },
+    {
+      "product_name": "IBM Security QRadar",
+      "semantics": [
+        "SIEM",
+        "Cybersecurity",
+        "Threat Detection",
+        "Security Analytics",
+        "SOC",
+        "Security Operations"
+      ],
+      "industry": "Cross-Industry"
+    },
+    {
+      "product_name": "IBM Cloud for Government",
+      "semantics": [
+        "Government Cloud",
+        "Secure Cloud",
+        "Public Sector Cloud",
+        "Government Infrastructure"
+      ],
+      "industry": "Government & Public Sector"
+    },
+    {
+      "product_name": "IBM Z",
+      "semantics": [
+        "Mainframe",
+        "Enterprise Computing",
+        "Mission Critical",
+        "High Availability",
+        "Transaction Processing"
+      ],
+      "industry": "Government & Public Sector"
+    },
+    {
+      "product_name": "IBM Maximo for Utilities",
+      "semantics": [
+        "Utility Asset Management",
+        "Grid Maintenance",
+        "Asset Lifecycle Management",
+        "Predictive Maintenance",
+        "Energy Asset Management"
+      ],
+      "industry": "Energy & Utilities"
+    },
+    {
+      "product_name": "IBM Environmental Intelligence Suite",
+      "semantics": [
+        "ESG",
+        "Climate Risk",
+        "Weather Intelligence",
+        "Environmental Analytics",
+        "Sustainability"
+      ],
+      "industry": "Energy & Utilities"
+    },
+    {
+      "product_name": "IBM Supply Chain Energy",
+      "semantics": [
+        "Energy Supply Chain",
+        "Energy Logistics",
+        "Energy Operations",
+        "Utility Supply Chain"
+      ],
+      "industry": "Energy & Utilities"
+    },
+    {
+      "product_name": "Watson IoT for Energy",
+      "semantics": [
+        "Industrial IoT",
+        "Energy IoT",
+        "Smart Grid",
+        "Remote Monitoring",
+        "Energy Analytics"
+      ],
+      "industry": "Energy & Utilities"
+    },
+    {
+      "product_name": "IBM watsonx.ai",
+      "semantics": [
+        "Generative AI",
+        "Foundation Models",
+        "Large Language Models",
+        "LLM",
+        "Enterprise AI",
+        "AI Platform",
+        "Machine Learning"
+      ],
+      "industry": "Cross-Industry"
+    },
+    {
+      "product_name": "IBM watsonx.governance",
+      "semantics": [
+        "AI Governance",
+        "Responsible AI",
+        "Model Governance",
+        "AI Compliance",
+        "AI Risk"
+      ],
+      "industry": "Cross-Industry"
+    },
+    {
+      "product_name": "IBM watsonx Orchestrate",
+      "semantics": [
+        "Workflow Automation",
+        "Business Automation",
+        "AI Assistant",
+        "Digital Assistant",
+        "Process Automation"
+      ],
+      "industry": "Cross-Industry"
+    },
+    {
+      "product_name": "IBM Granite Models",
+      "semantics": [
+        "Foundation Models",
+        "LLM",
+        "Large Language Models",
+        "Generative AI",
+        "Enterprise AI"
+      ],
+      "industry": "Cross-Industry"
+    },
+    {
+      "product_name": "IBM Cloud Pak Suite",
+      "semantics": [
+        "Hybrid Cloud",
+        "Cloud Native",
+        "Application Modernization",
+        "Containers",
+        "OpenShift",
+        "Enterprise Platform"
+      ],
+      "industry": "Cross-Industry"
+    }
+  ]
+}
